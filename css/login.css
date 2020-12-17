@@ -1,0 +1,36 @@
+.navbar-wrap {
+    background: black !important;
+}
+
+#login-icon {
+    border: 1px solid #fdcb6e !important;
+}
+/* Login form */
+.login-content {
+    margin-top: 100px;
+}
+
+.text-info.login-title {
+    font-size: 52px;
+}
+
+.text-info {
+    font-size: 16px;
+}
+
+#login_username,
+#login_password {
+    font-size: 16px;
+}
+
+#remember-me {
+    cursor: pointer;
+}
+
+.btn-login {
+    font-size: 16px !important;
+    font-weight: bold !important;
+    padding: 6px 32px !important;
+    cursor: pointer;
+    border-radius: 5px;
+}
